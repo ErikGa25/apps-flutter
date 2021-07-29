@@ -1,6 +1,6 @@
 ### Instrucciones
 
-Después de descargar puedes ejecutar cualquiera de proyectos y ejecutar los siguientes comandos:
+Después de descargar puedes ejecutar cualquiera de proyectos y los siguientes comandos:
 
 - ```flutter packages get```
 - ```flutter pub get```
